@@ -1,6 +1,6 @@
 # Uncontrolled reentries will disrupt airspace again
 
-This repository contains the data and code used in the paper 'Uncontrolled reentries will disrupt airspace again' (2024) by Ewan Wright, Aaron Boley and Michael Byers.
+This repository contains the data and code used in the paper 'Airspace closures due to reentering space debris' (2024) by Ewan Wright, Aaron Boley and Michael Byers.
 
 It is provided for independent assessment. If you use information provided here, please cite the 2024 paper linked here: [TBC]
 
