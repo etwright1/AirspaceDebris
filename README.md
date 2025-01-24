@@ -1,6 +1,6 @@
-# Airspace closures due to reentering space debris
+# Airspace closures due to reentering space objects
 
-This repository contains the data and code used in the paper 'Airspace closures due to reentering space debris', published in Scientific Reports, (2025) by Ewan Wright, Aaron Boley and Michael Byers.
+This repository contains the data and code used in the paper 'Airspace closures due to reentering space objects', published in Scientific Reports, (2025) by Ewan Wright, Aaron Boley and Michael Byers.
 
 It is provided for independent assessment. If you use information provided here, please cite the 2025 paper linked here: https://www.nature.com/articles/s41598-024-84001-2
 
